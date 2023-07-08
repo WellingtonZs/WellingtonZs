@@ -1,12 +1,13 @@
 <div>
   
   <h1 align="center">
-    Opa Tudo bem? Eu sou o 
+    Bem vindo(a) ao meu perfil! <br>
+    Eu sou o 
     <a href="https://www.linkedin.com/in/zstech/">ZsTech^</a>
   </h1>
   
   <p align="center">
-    Me chamo Wellington Cavalcante e sou um DEV iniciante. <br>
+    Me chamo Wellington e sou um DEV iniciante. <br>
     Estudo informática pela⠀⠀ -->⠀
     <a href="https://fieb.edu.br/" target="_blank">
       <img

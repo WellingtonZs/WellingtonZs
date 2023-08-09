@@ -24,7 +24,7 @@ __________       ___________           .__       /\
            width="3%" 
            align="center" 
            valign="middle" 
-           src="https://fieb.edu.br/wp-content/themes/fieb-2022/img/logo-fieb-branco.svg](https://stgwebfiebbrs001.blob.core.windows.net/web/logo-fiebtech-branco_318x84.png" 
+           src="https://fieb.edu.br/wp-content/themes/fieb-2022/img/logo-fieb-branco.svg" 
            target="_blank" 
       />
     </a>  <br>
